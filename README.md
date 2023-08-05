@@ -6,7 +6,6 @@ Hello fellow techies! I'm Onkar Wagh, a passionate engineer and technology enthu
 - 🌱 I’m constantly learning and experimenting with technologies like MySQL, JDBC, and I regularly practice Data Structures and Algorithms (DSA).
 - 🎶 In my spare time, I like playing chess, video games, and watching shows.
 
-![Typing Speed](https://path-to-typing-speed.gif) I can type with a speed of 60 words per minute.
 
 - 📫 How to reach me: Email me at onkar.s.wagh@example.com.
 
