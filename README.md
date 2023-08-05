@@ -1,6 +1,5 @@
 # Hii Folkes! Welcome to Onkar's Tech Playground! 👋
 
-![Welcome GIF](https://media.giphy.com/media/3o6Zt6E9sgDc4jQakE/giphy.gif)
 
 Hello fellow techies! I'm Onkar Wagh, a passionate engineer and technology enthusiast. I enjoy tackling challenging problems, building innovative solutions, and constantly learning new things. This GitHub profile is a showcase of my work, contributions, and personal projects.
 
