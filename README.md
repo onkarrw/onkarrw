@@ -17,6 +17,6 @@ Let's connect and talk tech! Feel free to reach out to me:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/onkar-wagh-632ab821a/)
 - [![Personal Website](https://img.shields.io/badge/Personal%20Website-Visit-red)](https://onkarrw.github.io/cd-onkar/)
 
-📧 **How to Reach Me**: Email me at onkar.s.wagh@example.com.
+📧 **How to Reach Me**: Email me at onkar.s.wagh@gmail.com.
 
 Thank you for visiting my tech playground! Happy coding! 🚀
