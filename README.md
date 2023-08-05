@@ -3,6 +3,12 @@
 
 Hello fellow techies! I'm Onkar Wagh, a passionate engineer and technology enthusiast. I enjoy tackling challenging problems, building innovative solutions, and constantly learning new things. This GitHub profile is a showcase of my work, contributions, and personal projects.
 
+🐍 **Snake Eating the Contribution Table** 🐍
+             ⣠⣴⣶⡾⣻⢿⣿⣷⣶⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢀⣴⣾⣿⣿⣷⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⢉⣁⣀
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+
+
 🔭 **Currently Working On**:
 - [Personal Portfolio Website (React Project)](https://github.com/onkarrw/portfolio): A dynamic and responsive personal portfolio showcasing my projects, skills, and experience.
 
