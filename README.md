@@ -32,7 +32,7 @@ Here are some of the technologies and tools I'm proficient in:
 
 In the future, I aim to learn and explore:
 - ☁️ **Azure Database or Cloud Services**
-- 🌐 **API's like REST**
+- 🌐 **APIs like REST**
 
 Feel free to explore the repositories and check out the code I've worked on!
 
