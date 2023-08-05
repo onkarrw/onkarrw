@@ -3,7 +3,7 @@
 Hello fellow techies! I'm Onkar Wagh, a passionate engineer and technology enthusiast. I enjoy tackling challenging problems, building innovative solutions, and constantly learning new things. This GitHub profile is a showcase of my work, contributions, and personal projects.
 
 🔭 **Currently Working On**:
-- **Integrated Education System**: A groundbreaking application that leverages cutting-edge technologies for revolutionizing education.
+- [**Integrated Education System**](#integrated-education-system-final-year-project): A groundbreaking application that leverages cutting-edge technologies for revolutionizing education.
 
 🌱 **Constantly Learning & Experimenting With**:
 - **Technologies**: MySQL, JDBC
@@ -57,11 +57,35 @@ You can find more of my projects on [My Portfolio Website](https://onkarrw.githu
 
 Feel free to explore the repositories and check out the code I've worked on!
 
+---
+
+# Integrated Education System (Final Year Project)
+
+The Integrated Education System is a revolutionary application that aims to transform the education landscape by incorporating cutting-edge technologies. As part of our final year project, we are building a comprehensive platform that addresses various aspects of the educational ecosystem.
+
+## 🚀 Key Features & Technologies:
+
+- **Video Conferencing**: We have already implemented a web application for seamless video conferencing, which is created using Node.js. This feature enables students and teachers to connect and collaborate in real-time, fostering an interactive virtual classroom experience.
+
+- **Exam Portal**: The platform will include a secure and user-friendly exam portal, providing a convenient way for conducting online assessments and evaluations.
+
+- **Teacher Assignment Posting**: Teachers will have the ability to post assignments directly through the platform, streamlining the process of sharing and managing academic tasks.
+
+## 🌱 Technologies We Are Learning & Implementing:
+
+- **Azure Database**: We are exploring the integration of Azure database for robust data storage and management, ensuring scalability and high-performance.
+
+- **Easient Technology**: We are adopting the most suitable and user-friendly technology stack to enhance user experience and streamline the learning process.
+
+Through the Integrated Education System, we aim to empower educators and learners with a modern and efficient platform that fosters knowledge sharing, collaboration, and seamless communication. As we progress with the development, we are excited to witness the impact of our project on the education sector.
+
+Stay tuned for updates on our journey to revolutionize education with technology!
+
 ## Get in Touch
 
-Let's connect and talk tech! Feel free to reach out to me:
+Feel free to connect with us and learn more about our project's progress:
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/onkar-wagh-632ab821a/)
-- [![Personal Website](https://img.shields.io/badge/Personal%20Website-Visit-red)](https://onkarrw.github.io/cd-onkar/)
+- [LinkedIn](https://www.linkedin.com/in/onkar-wagh-632ab821a/)
+- [Personal Website](https://onkarrw.github.io/cd-onkar/)
 
-Thank you for visiting my tech playground! Happy coding! 🚀
+Thank you for your interest in our project! 🎓🌟
