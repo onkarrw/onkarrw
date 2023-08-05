@@ -1,12 +1,14 @@
 # Hii Folkes! Welcome to Onkar's Tech Playground! 👋
 
+![Welcome GIF](https://media.giphy.com/media/3o6Zt6E9sgDc4jQakE/giphy.gif)
+
 Hello fellow techies! I'm Onkar Wagh, a passionate engineer and technology enthusiast. I enjoy tackling challenging problems, building innovative solutions, and constantly learning new things. This GitHub profile is a showcase of my work, contributions, and personal projects.
 
 🔭 **Currently Working On**:
 - [Personal Portfolio Website (React Project)](https://github.com/onkarrw/portfolio): A dynamic and responsive personal portfolio showcasing my projects, skills, and experience.
 
 🌱 **Constantly Learning & Experimenting With**:
-- **Technologies**: MySQL, JDBC, ReactJS, Node.js
+- **Technologies**: MySQL, JDBC, ReactJS, Node.js, Data Science, Machine Learning
 - **Practicing**: Data Structures and Algorithms (DSA)
 
 🎶 **In My Spare Time**, I Enjoy:
