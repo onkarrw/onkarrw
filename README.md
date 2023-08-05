@@ -6,12 +6,12 @@ Hello fellow techies! I'm Onkar Wagh, a passionate engineer and technology enthu
 - [Personal Portfolio Website (React Project)](https://github.com/onkarrw/portfolio): A dynamic and responsive personal portfolio showcasing my projects, skills, and experience.
 
 🌱 **Constantly Learning & Experimenting With**:
-- **Technologies**: MySQL, JDBC
+- **Technologies**: MySQL, JDBC, ReactJS, Node.js
 - **Practicing**: Data Structures and Algorithms (DSA)
 
 🎶 **In My Spare Time**, I Enjoy:
 - Playing chess ♟️
-- Exploring video games 🎮
+- Playing video games 🎮
 - Watching shows 📺
 
 📧 **How to Reach Me**: Email me at onkar.s.wagh@example.com.
@@ -30,30 +30,6 @@ Here are some of the technologies and tools I'm proficient in:
 In the future, I aim to learn and explore:
 - ☁️ **Azure Database or Cloud Services**
 - 🌐 **API's like REST**
-
-## Projects
-
-Check out some of my notable projects:
-
-### 🚗 Data Fusion: Predictive Analytics & Recommendations
-Integrated car prize prediction, sales forecasting, and movie recommendation models for actionable insights.
-
-### 🗣️ Voice-Controlled Automation with Google Assistant
-Designed a voice-controlled water tap system using Google Assistant, IFTTT, and Adafruit for real-time water tap control.
-
-### 😄 Face Detection using Haar Cascades
-A real-time face or smile detection algorithm that uses blocks or line detection features.
-
-### 🌐 Lead Tracker Chrome Extension
-Leads Tracker can be used to save URLs from any website.
-
-### 📚 Library Management System (Java)
-Used to insert, update, and delete records into the database for efficient library management.
-
-### 🌟 Personal Portfolio Website
-My Portfolio website built using the React framework.
-
-You can find more of my projects on [My Portfolio Website](https://onkarrw.github.io/cd-onkar/).
 
 Feel free to explore the repositories and check out the code I've worked on!
 
