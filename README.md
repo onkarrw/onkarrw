@@ -1,4 +1,4 @@
-# Hii Folkes! Welcome to Onkar's Tech Playground! 👋
+# Hii Folks! Welcome to Onkar's Tech Playground! 👋
 
 Hello fellow techies! I'm Onkar Wagh, a passionate engineer and technology enthusiast. I enjoy tackling challenging problems, building innovative solutions, and constantly learning new things. This GitHub profile is a showcase of my work, contributions, and personal projects.
 
